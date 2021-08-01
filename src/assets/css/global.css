@@ -1,0 +1,25 @@
+/*全局樣式*/
+HTML,body,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* 面包屑样式 */
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+/*卡片區域 !important 提高樣式級別*/
+.el-card{
+    box-shadow: 0 1px 1px rgba(0, 8, 10, 0.15) !important;
+    width: 100%;
+}
+
+/*表格樣式*/
+.el-table {
+    margin-top: 15px;
+    font-size: 12px;
+    min-width: 350px;
+}

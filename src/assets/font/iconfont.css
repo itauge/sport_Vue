@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2705502 */
+  src: url('iconfont.woff2?t=1627442559396') format('woff2'),
+       url('iconfont.woff?t=1627442559396') format('woff'),
+       url('iconfont.ttf?t=1627442559396') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-management:before {
+  content: "\e664";
+}
+
+.icon-qialuli:before {
+  content: "\e7b4";
+}
+
+.icon-shangpin:before {
+  content: "\e648";
+}
+
+.icon-book:before {
+  content: "\e61e";
+}
+
+.icon-sports:before {
+  content: "\e63a";
+}
+
+.icon-liebiao:before {
+  content: "\e60d";
+}
+
+.icon-log-in:before {
+  content: "\e66b";
+}
+
+.icon-password:before {
+  content: "\e61f";
+}
+
+.icon-food:before {
+  content: "\e66a";
+}
+
